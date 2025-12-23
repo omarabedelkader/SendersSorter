@@ -4,7 +4,7 @@ It first obtains the raw list from NoSorter, then reorders it.
 "
 Class {
 	#name : 'SendersSorter',
-	#superclass : 'AnObsoleteCompletionSorter',
+	#superclass : 'CompletionSorter',
 	#category : 'Senders-Sorter',
 	#package : 'Senders-Sorter'
 }
